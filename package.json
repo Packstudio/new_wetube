@@ -14,7 +14,7 @@
   "author": "Packs",
   "type": "commonjs",
   "scripts": {
-    "dev": "nodemon --exec babel-node index.js"
+    "dev": "nodemon --exec babel-node src/server.js"
   },
   "dependencies": {
     "express": "^5.2.1"
